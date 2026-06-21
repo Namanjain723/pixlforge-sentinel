@@ -125,6 +125,7 @@ Sentinel ships with a full **business kit** (`business/`): pricing & packages wi
 ## 👤 Author
 
 **Naman Jain** — PixlForge Studio
+📧 [info@pixlforgestudio.in](mailto:info@pixlforgestudio.in)
 🔗 [github.com/Namanjain723](https://github.com/Namanjain723)
 
 ## 📄 License
