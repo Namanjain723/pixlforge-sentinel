@@ -2,7 +2,7 @@
 
 <img src="assets/hero.png" alt="PixlForge Sentinel" width="100%">
 
-# 🛰ï¸ PixlForge Sentinel
+# 🛰️ PixlForge Sentinel
 
 ### Budget-gated B2B lead intelligence
 
@@ -40,7 +40,7 @@ Apollo, Hunter and ZoomInfo are great at scale — and terrible at **niche** tar
 
 ---
 
-## ⚙ï¸ How it works — 5 stages, one hard cap
+## ⚙️ How it works — 5 stages, one hard cap
 
 ![Pipeline](assets/screenshots/02-pipeline.png)
 
@@ -56,7 +56,7 @@ Apollo, Hunter and ZoomInfo are great at scale — and terrible at **niche** tar
 
 ---
 
-## 🖥ï¸ One command, start to finish
+## 🖥️ One command, start to finish
 
 ```bash
 python sentinel.py --niche "Marketing Agencies in Austin Texas" --budget 2 --max-leads 25 --yes
